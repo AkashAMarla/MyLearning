@@ -1,4 +1,5 @@
 # MyLearning
 This the first project for learning git
 
-Author- Akash A Marla
+Author- Akash A Marla(Mijar)
+
